@@ -1,0 +1,45 @@
+{
+	"title" : "Domains",
+	"domains" : [
+		{
+			"icon" : "shopping-cart",
+			"title" : "e-Commerce",
+			"skills" : 
+			[
+				"Magento 2", 
+				"B2C commerce",
+				"Multi-brand management"
+			]
+		},
+		{
+			"icon" : "cloud",
+			"title" : "Cloud",
+			"skills" : 
+			[
+				"AWS Certified Solutions Architect - Associate",
+				"Docker/Kubernetes"
+			]
+		},
+		{
+			"icon" : "chart-bar",
+			"title" : "Data Science",
+			"skills" : 
+			[
+				"R Programming", 
+				"Exploratory Data Analysis",
+				"Regression Models",
+				"Machine Learning"
+			]
+		},
+		{
+			"icon" : "map-marked-alt",
+			"title" : "GIS",
+			"skills" : 
+				[
+					"ESRI suite", 
+					"PostGIS, QGIS, GeoServer, Openlayers",
+					"Geospatial data management"
+				]
+		}
+	]
+}

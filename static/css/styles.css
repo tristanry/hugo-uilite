@@ -244,6 +244,18 @@ section.pink {
   background-color: #fff1f1;
 }
 
+section.rolegrey {
+  background-color: #6fc0d4;
+}
+
+section.expgreen {
+  background-color: #9ccb7e;
+}
+
+section.domorange {
+  background-color: #dd9a70;
+}
+
 .progress {
   height: 0.6rem;
   background-color: #fff;
@@ -438,3 +450,7 @@ section.pink {
   transition: bottom 300ms cubic-bezier(0.23, 1, 0.32, 1), transform 350ms 350ms cubic-bezier(0.23, 1, 0.32, 1), -webkit-transform 350ms 350ms cubic-bezier(0.23, 1, 0.32, 1);
 }
 /*# sourceMappingURL=styles.css.map */
+
+li{
+  text-align:left
+  }

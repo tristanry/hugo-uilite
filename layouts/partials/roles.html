@@ -1,11 +1,11 @@
-{{ $services := .Site.Data.services }}
+{{ $roles := .Site.Data.roles }}
 
-<section class="blue">
-  <h2 class="heading">{{ $services.title }}</h2>
+<section class="rolegrey">
+  <h2 class="heading">{{ $roles.title }}</h2>
 
   <div class="row justify-content-md-center text-center">
 
-    {{ range $index, $element := $services.services }}
+    {{ range $index, $element := $roles.roles }}
 
     <div class="col-12 col-lg-6 col-md-6 mb-3">
       <div class="card p-4">

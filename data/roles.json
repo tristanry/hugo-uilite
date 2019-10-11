@@ -1,0 +1,15 @@
+{
+	"title" : "Roles",
+	"roles" : [
+		{
+			"icon" : "project-diagram",
+			"title" : "Delivery Consultant",
+			"description" : "As a Delivery Consultant, I'm driving the delivery to meet clients' expectations using an agile methodology."
+		},
+		{
+			"icon" : "pencil-ruler",
+			"title" : "Business Analyst",
+			"description" : "As a Business Analyst, I'm working close to the client to understand the business needs and advising on the most suitable solution."
+		}
+	]
+}

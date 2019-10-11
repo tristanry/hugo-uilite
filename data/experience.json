@@ -1,0 +1,15 @@
+{
+	"title" : "Experience",
+	"experience" : [
+		{
+			"timeperiod" : "Feb 2018 - Present",
+			"company" : "eWave",
+			"description" : "I'm working as Digital Delivery Consultant & Business Analyst in the e-commerce domain. As part of the Solution Delivery department, my responsibilities are shared between delivery supervision of multiple projects, business requirement analysis and cloud management."
+		},
+		{
+			"timeperiod" : "Jan 2013 - Dec 2017",
+			"company" : "Capgemini",
+			"description" : "I worked as a Business Analyst & Engagement Manager in the fields of utilities, smart city, and transport. Attached to the Center of Excellence GIS, I had the opportunity to develop an expertise in spatial intelligence problematics. "
+		}
+	]
+}
