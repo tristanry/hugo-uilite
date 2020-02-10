@@ -1,45 +1,41 @@
 {
-	"title" : "Domains",
-	"domains" : [
+	"title": "Domains",
+	"domains": [
 		{
-			"icon" : "shopping-cart",
-			"title" : "e-Commerce",
-			"skills" : 
-			[
-				"Magento 2", 
+			"icon": "shopping-cart",
+			"title": "e-Commerce",
+			"skills": [
+				"Magento 2",
 				"B2C commerce",
 				"Multi-brand management"
 			]
 		},
 		{
-			"icon" : "cloud",
-			"title" : "Cloud",
-			"skills" : 
-			[
+			"icon": "cloud",
+			"title": "Cloud",
+			"skills": [
 				"AWS Certified Solutions Architect - Associate",
-				"Docker/Kubernetes"
+				"Serverless / JAMStack ",
+				"Continuous Deployment"
 			]
 		},
 		{
-			"icon" : "chart-bar",
-			"title" : "Data Science",
-			"skills" : 
-			[
-				"R Programming", 
-				"Exploratory Data Analysis",
-				"Regression Models",
-				"Machine Learning"
+			"icon": "chart-bar",
+			"title": "Data Science ",
+			"skills": [
+				"Dataiku certified",
+				"Python & R programming",
+				"Data management and Machine Learning"
 			]
 		},
 		{
-			"icon" : "map-marked-alt",
-			"title" : "GIS",
-			"skills" : 
-				[
-					"ESRI suite", 
-					"PostGIS, QGIS, GeoServer, Openlayers",
-					"Geospatial data management"
-				]
+			"icon": "map-marked-alt",
+			"title": "GIS",
+			"skills": [
+				"GIS platform trainer",
+				"ESRI and QGIS",
+				"Geospatial data processing and management"
+			]
 		}
 	]
 }

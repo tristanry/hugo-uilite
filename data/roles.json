@@ -1,15 +1,20 @@
 {
-	"title" : "Roles",
-	"roles" : [
+	"title": "Core skills",
+	"roles": [
 		{
-			"icon" : "project-diagram",
-			"title" : "Delivery Consultant",
-			"description" : "As a Delivery Consultant, I'm driving the delivery to meet clients' expectations using an agile methodology."
+			"icon": "project-diagram",
+			"title": "Project Management",
+			"description": "Driving the delivery to meet clients' expectations using an agile methodology"
 		},
 		{
-			"icon" : "pencil-ruler",
-			"title" : "Business Analyst",
-			"description" : "As a Business Analyst, I'm working close to the client to understand the business needs and advising on the most suitable solution."
+			"icon": "pencil-ruler",
+			"title": "Business Analysis",
+			"description": "Working close to the client to understand the business needs and advising on the most suitable solution"
+		},
+		{
+			"icon": "flask",
+			"title": "Innovation enablement",
+			"description": "Design, prototype, validate and refine cutting edge approaches to improve or develop business"
 		}
 	]
 }

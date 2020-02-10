@@ -1,9 +1,10 @@
 {
-	"title" : "Skills",
-	"skills" : {
-		"Agile Project Managment" : "90",
-		"e-commerce" : "80",
-		"GIS" : "90",
-		"Business analysis" : "97"
+	"title": "My week",
+	"skills": {
+		"Managing projects": "20",
+		"Managing the team": "20",
+		"Pitching": "20",
+		"Writing requirements and reports": "20",
+		"Experiementing new technologies": "5"
 	}
 }
