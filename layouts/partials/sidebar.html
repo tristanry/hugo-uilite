@@ -5,7 +5,7 @@
 <section id="sidebar" class="sidebar d-flex align-items-center p-5">
   <div class="main-info">
 
-    <img src="{{.Site.BaseURL}}images/{{ $sidebar.displayPicture }}" class="rounded-circle mb-3" width="160px">
+    <img src="{{.Site.BaseURL}}images/{{ $sidebar.displayPicture }}" class="rounded-circle mb-3" alt="Profile Picture" width="160px">
 
     <h1 class="heading">{{ $sidebar.title }} <span class="highlight">{{ $sidebar.highlightedText }}</span></h1>
     <p class="text-muted">{{ $sidebar.description }}</p>
@@ -13,11 +13,11 @@
     <div class="social my-4">
 
       {{ range $key, $value := $social }}
-        <a target="_blank" href="{{ $value }}" rel="me">
+        <a target="_blank" href="{{ $value }}" rel="noopener">
           <i class="fab fa-{{ $key }}"></i>
         </a>
       {{ end }}
-      <a target="_blank" href="https://gallery.henry.mx" rel="me">
+      <a target="_blank" href="https://gallery.henry.mx" rel="noopener">
         <i class="fas fa-camera"></i>
       </a>
      
