@@ -2,12 +2,12 @@
 	"title": "Domains",
 	"domains": [
 		{
-			"icon": "shopping-cart",
-			"title": "e-Commerce",
+			"icon": "users",
+			"title": "Salesforce",
 			"skills": [
-				"Magento 2",
-				"B2C commerce",
-				"Multi-brand management"
+				"Sales Cloud",
+				"Service Cloud",
+				"Pardot"
 			]
 		},
 		{
@@ -15,8 +15,16 @@
 			"title": "Cloud",
 			"skills": [
 				"AWS Certified Solutions Architect - Associate",
-				"Serverless/JAMStack ",
-				"Continuous Deployment"
+				"Serverless/JAMStack"
+			]
+		},
+		{
+			"icon": "map-marked-alt",
+			"title": "GIS",
+			"skills": [
+				"GIS platform trainer",
+				"ESRI and QGIS",
+				"Geospatial data management"
 			]
 		},
 		{
@@ -26,15 +34,6 @@
 				"Dataiku DSS Certified User",
 				"Python & R programming",
 				"Data management and Machine Learning"
-			]
-		},
-		{
-			"icon": "map-marked-alt",
-			"title": "GIS",
-			"skills": [
-				"GIS platform trainer",
-				"ESRI and QGIS",
-				"Geospatial data processing and management"
 			]
 		}
 	]

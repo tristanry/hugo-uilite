@@ -2,6 +2,11 @@
 	"title": "Core skills",
 	"roles": [
 		{
+					"icon": "chart-line",
+					"title": "Business Development",
+					"description": "Generating new business opportunities for strategic accounts"
+		},
+		{
 			"icon": "project-diagram",
 			"title": "Project Management",
 			"description": "Driving the delivery to meet clients' expectations using an agile methodology"
