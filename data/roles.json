@@ -2,24 +2,24 @@
 	"title": "Core skills",
 	"roles": [
 		{
-					"icon": "chart-line",
-					"title": "Business Development",
-					"description": "Generating new business opportunities for strategic accounts"
+			"icon": "chart-line",
+			"title": "Sales Performance Excellence",
+			"description": "Consistently exceeding sales targets through strategic client engagement, consultative selling, and tailored CRM/cloud solutions"
 		},
 		{
-			"icon": "project-diagram",
-			"title": "Project Management",
-			"description": "Driving the delivery to meet clients' expectations using an agile methodology"
+			"icon": "cloud",
+			"title": "Digital Transformation",
+			"description": "Driving SMB clients’ cloud adoption and AI-powered CRM implementation to boost efficiency, customer satisfaction, and retention"
 		},
 		{
-			"icon": "pencil-ruler",
-			"title": "Business Analysis",
-			"description": "Working close to the client to understand the business needs and advising on the most suitable solution"
+			"icon": "handshake",
+			"title": "Account Growth & Retention",
+			"description": "Building and nurturing high-value relationships across multiple sectors including high-tech, media, manufacturing, and French market"
 		},
 		{
-			"icon": "flask",
-			"title": "Innovation Management",
-			"description": "Design, prototype, validate and refine cutting edge approaches to improve or develop businesses"
+			"icon": "lightbulb",
+			"title": "Consultative Solution Design",
+			"description": "Translating complex business needs into tailored CRM, cloud, and AI solutions that deliver measurable business impact"
 		}
 	]
 }

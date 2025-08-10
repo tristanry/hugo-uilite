@@ -3,37 +3,39 @@
 	"domains": [
 		{
 			"icon": "users",
-			"title": "Salesforce",
+			"title": "Salesforce & CRM",
 			"skills": [
 				"Sales Cloud",
 				"Service Cloud",
-				"Marketing Cloud"
+				"Agentforce (AI-powered CRM)",
+				"CRM customization & implementation"
 			]
 		},
 		{
 			"icon": "cloud",
-			"title": "Cloud",
+			"title": "Cloud Solutions",
 			"skills": [
 				"AWS Certified Solutions Architect - Associate",
-				"Serverless/JAMStack"
+				"Cloud-first transformation strategies",
+				"Serverless / JAMStack"
 			]
 		},
 		{
 			"icon": "map-marked-alt",
-			"title": "GIS",
+			"title": "GIS & Spatial Solutions",
 			"skills": [
-				"GIS platform trainer",
-				"ESRI and QGIS",
-				"Geospatial data management"
+				"ArcGIS, QGIS, Geoserver, PostGIS",
+				"Geospatial data management & analysis",
+				"GIS platform training & deployment"
 			]
 		},
 		{
 			"icon": "chart-bar",
-			"title": "Data Science ",
+			"title": "Data Science & Analytics",
 			"skills": [
-				"Dataiku DSS Certified User",
-				"Python & R programming",
-				"Data management and Machine Learning"
+				"Dataiku DSS Certified User - Level 1",
+				"Python, R, SQL for analytics",
+				"Machine Learning & Data Visualization (Tableau)"
 			]
 		}
 	]
