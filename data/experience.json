@@ -2,10 +2,16 @@
 	"title": "Experience",
 	"experience": [
 		{
-			"timeperiod": "From December 2020",
+			"timeperiod": "From July 2025",
+			"company": "Google",
+			"location": "Dublin - Ireland",
+			"description": "Working as an Account Executive for Google Ads Mid-Market, I partner with clients to design and implement data-driven advertising strategies that optimize performance, maximize ROI, and accelerate business growth"
+		},
+		{
+			"timeperiod": "December 2020 - May 2025",
 			"company": "Salesforce",
 			"location": "Dublin - Ireland",
-			"description": "Working an Account Executive, I support startups companies in their digital transformation journey thanks to the Salesforce customer success platform"
+			"description": "I worked an Account Executive, I assisted startup companies in their digital transformation journey thanks to the Salesforce customer success platform"
 		},
 		{
 			"timeperiod": "February 2018 - February 2020",
